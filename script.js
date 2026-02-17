@@ -20,3 +20,6 @@ function calculate(){
     display.value = "Error";
   }
 }
+button:nth-child(4n){
+  background: orange;
+}
